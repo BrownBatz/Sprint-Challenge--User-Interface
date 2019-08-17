@@ -144,3 +144,211 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.middle-content .boxes .box1 {
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box2 {
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box3 {
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box4 {
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box5 {
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box6 {
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box7 {
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box8 {
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box9 {
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.middle-content .boxes .box10 {
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.headerImage{
+    display: block;
+}
+
+header{
+    margin-bottom: 30px;
+}
+
+.navSection{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+nav{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 20px;
+    padding: 20px;
+    align-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding-left: 35px;
+    padding-right: 35px;
+    height: 20px;
+}
+
+.logo{
+    height: 80%;
+}
+
+.headerImage{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.aboutHeaderInfo{
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.aboutMainContent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+.aboutContentBlock{
+    width: 40%;
+    padding: 20px;
+    margin: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.aboutContentBlock2{
+    width: 40%;
+    padding: 20px;
+    margin: 20px;
+    border-bottom: 1px dashed gray;
+}
+
+.contentBlockImage{
+    width: 100%;
+}
+
+.aboutContentBlock p{
+    margin-bottom: 20px;
+}
+
+.aboutContentBlock2 p{
+    margin-bottom: 20px; 
+}
+
+.button{
+    height: 10%;
+    width: 50%;
+    background: white;
+    border-radius: 40px;
+    border: solid black; 
+}
+
+.button:hover{
+    background-color: gray;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.endAboutMainSection{
+    padding: 20px;
+}
